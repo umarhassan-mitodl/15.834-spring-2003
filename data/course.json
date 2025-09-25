@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Marketing"
+    ]
+  ],
+  "legacy_uid": "802e20e9-97fb-5401-2778-f286ae10303d",
+  "instructors": {
+    "content": [
+      "df986c6b-c6c5-54e9-44fc-48361eb79870"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a2b6b96e-871c-d298-16fe-0d3c5b541e3a",
+    "website": "15-834-marketing-strategy-spring-2003"
+  },
+  "course_title": "Marketing Strategy",
+  "course_description": "The course is aimed at helping students look at the entire marketing mix in light of the strategy of the firm. It is most helpful to students pursuing careers in which they need to look at the firm as a whole. Examples include consultants, investment analysts, entrepreneurs, and product managers.\n\n**Objectives**\n\n1.  Identify, evaluate, and develop marketing strategies.\n2.  Evaluate a firm\u2019s opportunities.\n3.  Anticipate competitive dynamics.\n4.  Evaluate the sustainability of competitive advantages.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.834",
+  "course_image_thumbnail": {
+    "content": "35a2bb93-bc08-a821-16af-15c5096543a1",
+    "website": "15-834-marketing-strategy-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "9ccf90a8-b836-4792-be31-097dba8cfad5",
+  "site_short_id": "15.834-spring-2003",
+  "site_url_path": "courses/15-834-marketing-strategy-spring-2003",
+  "title": "Course Metadata"
+}
